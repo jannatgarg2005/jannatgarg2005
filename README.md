@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Projects I'm Building
+## 🚀 Projects I'm Building..
 
 | Project | What it does | Tech Stack | Status |
 |---|---|---|---|
