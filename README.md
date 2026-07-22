@@ -40,7 +40,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-**AI / ML / GenAI**
+**AI / ML / GenAI**..
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -49,7 +49,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Tools & Platforms**
+**Tools & Platforms**..
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -59,7 +59,7 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications..
 
 🏅 **Google AI Professional Certificate** — Google (June 2026)
 &nbsp;&nbsp;&nbsp;&nbsp;[🔗 Verify Certificate](https://coursera.org/verify/professional-cert/OI3PAHM07C1K)
