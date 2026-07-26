@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jannat Garg 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer in the making · Python · GenAI · RAG Systems</b><br>
+  <b>AI/ML Engineer in the making · Python · GenAI · RAG Systems </b><br>
   B.Tech CSE @ Bhagwan Parshuram Institute of Technology (BPIT), New Delhi · Final Year · Google AI Certified
 </p>
 
@@ -26,7 +26,7 @@
 
 | Project | What it does | Tech Stack | Status |
 |---|---|---|---|
-| 🤖 [AI Agent — Kaggle × Google](https://github.com/jannatgarg2005/kaggle-google-ai-agent) | Intelligent agentic workflow built for Google & Kaggle 5-Day AI Agents Intensive Course | Google ADK · MCP · Gemini API | 🔨 Building |
+| 🤖 [AI Agent — Kaggle × Google](https://github.com/jannatgarg2005/kaggle-google-ai-agent) | Intelligent agentic workflow built for Google & Kaggle 5-Day AI Agents Intensive Course | Google ADK · MCP · Gemini API | 🔨 Completed |
 | 📊 [Customer Churn Prediction](https://github.com/jannatgarg2005/customer-churn-prediction) | End-to-end ML pipeline predicting telecom customer churn | XGBoost · Scikit-learn · Streamlit | 🔨 Building |
 | 💬 [RAG Document Chatbot](https://github.com/jannatgarg2005/rag-document-chatbot) | Upload any PDF → Ask questions in natural language using RAG | LangChain · FAISS · Gemini API | 🔨 Building |
 
