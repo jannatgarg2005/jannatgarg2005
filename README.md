@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>AI/ML Engineer in the making · Python · GenAI · RAG Systems </b><br>
-  B.Tech CSE @ Bhagwan Parshuram Institute of Technology (BPIT), New Delhi · Final Year · Google AI Certified
+  B.Tech-CSE @ Bhagwan Parshuram Institute of Technology (BPIT), New Delhi · Final Year · Google AI Certified
 </p>
 
 <p align="center">
