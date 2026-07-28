@@ -84,5 +84,5 @@
 ---
 
 <p align="center">
-  <i>"Building intelligence, one commit at a time. 🚀"</i>
+  <i>"Building intelligence, one commit at a time being. 🚀"</i>
 </p>
