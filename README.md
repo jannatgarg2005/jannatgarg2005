@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jannat Garg 👋</h1>
+<h1 align="center">Hello, I'm Jannat Garg 👋</h1>
 
 <p align="center">
   <b>AI/ML Engineer in the making · Python · GenAI · RAG Systems </b><br>
