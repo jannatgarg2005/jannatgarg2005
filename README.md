@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jannat Garg 👋</h1>
 
 <p align="center">
-  <b>AI/ML Engineer · Python · GenAI · RAG Systems </b><br>
+  <b>AI/ML Engineer in making · Python · GenAI · RAG Systems </b><br>
   B.Tech-CSE @ Bhagwan Parshuram Institute of Technology (BPIT), New Delhi · Final Year · Google AI Certified
 </p>
 
